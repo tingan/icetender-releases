@@ -5,5 +5,5 @@ checksums for [IceTender](https://apps.apecoo.com/icetender).
 
 The IceTender source code is not published in this repository.
 
-Download the latest universal DMG from the [Releases](../../releases/latest)
-page. It supports Apple Silicon and Intel Macs.
+Download [IceTender.dmg](./IceTender.dmg). It supports Apple Silicon and Intel
+Macs and includes the 14-day trial and offline license activation.
